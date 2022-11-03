@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Whats going on here ?
 
-This repo is a demo for configure Sentry to create releases with source maps excluding it from React production build.
+This repo is a demo for configure Sentry to create releases with source maps excluding it from React production build. 
+
+[Here is the article](https://dev.to/creamdonut/react-sentry-releases-and-source-maps-configuration-2jjp).
 
 Releases ID's based on git system, so you probably need it.
 
